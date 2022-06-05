@@ -2,6 +2,8 @@
 
 Repositório criado exclusivamente com todos os arquivos do desafio de projeto "Recriando a página inicial do Instagram" do Bootcamp Impulso Javascript Evolution.
 
+[Petrus Borges - Desafio de projeto Instagram](https://petrusborges-dio-desafiodeprojetoinstagram.netlify.app)
+
 ## 📋 Projeto
 
 Os conteúdos presentes neste repositório é resultado de participação do desafio de projeto no Impulso Javascript Evolution na [DIO](https://www.dio.me) 🚀.
